@@ -21,11 +21,11 @@ Trained a convolutional neural network from scratch to classify images from a si
 Manipulated image histograms to normalize contrast, perform equalization, and match target image distributions. Visualized the results and intermediate steps.
 
 ## 🛠️ Tools & Libraries
-  Python 3.x  
-  OpenCV
-  NumPy
-  Matplotlib
-  PyTorch / TensorFlow for CNN demos
+  - Python 3.x  
+  - OpenCV
+  - NumPy
+  - Matplotlib
+  - PyTorch / TensorFlow for CNN demos
 
 ## 📄 Notes
 
